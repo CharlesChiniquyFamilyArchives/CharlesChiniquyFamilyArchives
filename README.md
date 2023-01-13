@@ -17,5 +17,6 @@ Published works of Charles Chiniquy (archive section 01)
 
 | Sub Archive # | Object  | Content type | Date/Edition/Source | 
 |--------------:|--------:| ------------:|---------------------|
-|01-010         | La femme le prêtre et le confessional | Full book | Link to public repository of full book of National Library of Canada |
-|01-014         | Cinquante ans dans l'Église Romaine vol1 | Full book | Produced from original Chiniquy.ca archive (page scans put into a single readable PDF) |
+|01-010         | [La femme le prêtre et le confessional](https://drive.google.com/drive/folders/1FUGxyIMLANPORx5LjeY_LP2I4h9Ob5uy?usp=share_link) | Full book | Link to public repository of full book of National Library of Canada |
+|01-014 vol1.   | [Cinquante ans dans l'Église Romaine Vol1.](https://drive.google.com/file/d/19kMD_S9EltZEcKkh6wrpD9UEGvcnf7Rd/view?usp=share_link) | Full book | Produced from original Chiniquy.ca archive (page scans put into a single readable PDF) |
+|01-014 vol2.   | [Cinquante ans dans l'Église Romaine Vol2.](https://drive.google.com/file/d/1Ny1sLOCVvem5xOO1cNM-YgSJ8ED7ub1F/view?usp=share_link) | Full book | Produced from original Chiniquy.ca archive (page scans put into a single readable PDF) |
